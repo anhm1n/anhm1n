@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anh-Minh Nguyen!
-- 👀 I’m interested in data!
+- 👀 I love data and fitness! (And my family, friends, the earth, so on...)
 
 My website: anhm1n.github.io
 <!---
